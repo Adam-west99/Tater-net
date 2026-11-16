@@ -1,0 +1,22 @@
+{
+	"name": "OnlineCoop",
+	"namespace": "TaterNet",
+	"version_number": "0.2.0",
+	"description": "Tater-Net: online co-op over Steam for up to 4 players. The host runs normal local co-op; friends join as virtual controllers and see the host's game. Achievements and unlocks are applied to each player's own save, and online runs are kept separate from your single-player run.",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": ["TaterNet"],
+			"optional_dependencies": [],
+			"compatible_game_version": ["1.1.13.1"],
+			"compatible_mod_loader_version": ["6.2.0"],
+			"incompatibilities": ["Pasha-Brotatogether"],
+			"load_before": [],
+			"tags": ["Multiplayer", "Co-op", "Online", "Steam"],
+			"config_schema": {},
+			"description_rich": "",
+			"image": null
+		}
+	}
+}
